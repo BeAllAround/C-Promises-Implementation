@@ -2,7 +2,7 @@
 
 
 ## Examples
-// some of the examples taken from <url> understanding-javascript-promises </url>
+// some of the examples taken from [<url> understanding-javascript-promises </url>](https://nodejs.dev/learn/understanding-javascript-promises)
 	
 	void e1(){
 		auto a1 = ECMA::Promise<int, int>([](auto resolve){

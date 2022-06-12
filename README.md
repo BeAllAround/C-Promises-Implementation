@@ -3,6 +3,7 @@
 
 ## Examples
 // some of the examples taken from <url> understanding-javascript-promises </url>
+	
 	void e1(){
 		auto a1 = ECMA::Promise<int, int>([](auto resolve){
 				resolve(5101);

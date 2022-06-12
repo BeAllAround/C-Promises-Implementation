@@ -48,8 +48,6 @@ Some of the examples taken from [<url> understanding-javascript-promises </url>]
 		}, 5).then([](auto resolve){
 			std::cout << resolve << std::endl;
 		});
-
-
 	}
 
 	void e2(){ // handling errors
@@ -77,5 +75,4 @@ Some of the examples taken from [<url> understanding-javascript-promises </url>]
 		})._catch([](auto err){
 			std::cout << err << std::endl;
 		});
-
 	}

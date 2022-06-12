@@ -62,8 +62,6 @@ void e1(){
 	}, 5).then([](auto resolve){
 		std::cout << resolve << std::endl;
 	});
-
-
 }
 
 void e2(){ // handling errors
@@ -91,7 +89,6 @@ void e3(){ // cascading errors
 	})._catch([](auto err){
 		std::cout << err << std::endl;
 	});
-
 }
 
 int main(void){

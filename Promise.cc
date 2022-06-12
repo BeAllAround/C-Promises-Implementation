@@ -1,5 +1,3 @@
-#include <iostream>
-#include <string>
 #include <functional>
 
 // template<class call, class...types>using _function = call(*)(types...); // tried to implement a namespace akin to std::function, but decided to stick to std::function in the long run

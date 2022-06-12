@@ -1,3 +1,5 @@
+#include <iostream>
+
 #include "Promise.cc"
 
 class Error{ // class for exception-handling

@@ -1,5 +1,6 @@
 # C-Promises-Implementation
 
+This implementation shows the basic idea of how Promises and their callbacks could be handled in the C++ Programming Language. In other words, it's the basic design of Promises in C++.
 
 ## Examples
 // some of the examples taken from [<url> understanding-javascript-promises </url>](https://nodejs.dev/learn/understanding-javascript-promises)
